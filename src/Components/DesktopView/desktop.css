@@ -1,0 +1,17 @@
+.nav-container{
+ display: flex;
+ justify-content: space-between;
+ background-color: yellow; 
+ padding:12px;  
+ font-size: 20px; 
+ position: sticky;
+ top:0;
+
+ z-index: +1;
+}
+.middle input{
+   width: 50vw;
+   border-radius:19px;
+  padding: 0px 10px;
+   
+}
